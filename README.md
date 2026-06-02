@@ -14,7 +14,7 @@ A simple notes application built using Expo React Native for learning and practi
 
 ## 🛠️ Tech Stack
 - React Native (Expo)
-- JavaScript / TypeScript (jo bhi use kiya ho)
+- JavaScript / TypeScript
 
 ---
 
@@ -29,3 +29,9 @@ A simple notes application built using Expo React Native for learning and practi
    ```bash
    npx expo start
    ```
+   
+##💡 Purpose
+
+This project was built while learning mobile app development with Expo.
+
+---
