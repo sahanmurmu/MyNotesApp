@@ -15,7 +15,6 @@ export default function Settings() {
     >
       <SafeAreaView style={styles.content}>
         
-        {/* 👇 PREMIUM HEADER 👇 */}
         <View style={styles.header}>
           <Text style={styles.headerTitle}>Settings ⚙️</Text>
         </View>
