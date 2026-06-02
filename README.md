@@ -30,8 +30,9 @@ A simple notes application built using Expo React Native for learning and practi
    npx expo start
    ```
    
+---
 ##💡 Purpose
 
-This project was built while learning mobile app development with Expo.
+- This project was built while learning mobile app development with Expo.
 
 ---
